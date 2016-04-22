@@ -9,6 +9,6 @@ public class Main {
         HelloWorld helloWorld = new HelloWorld();
         new HelloWorld();
 
-        int a = 1;
+        int a = 2;
     }
 }
