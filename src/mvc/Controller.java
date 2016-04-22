@@ -1,4 +1,4 @@
-package yopackage;
+package mvc;
 
 import java.util.Scanner;
 

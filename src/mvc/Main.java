@@ -1,4 +1,4 @@
-package yopackage;
+package mvc;
 
 
 public class Main {
