@@ -1,4 +1,4 @@
-package java.game;
+package javaGame;
 
 
 public class Main {
